@@ -1,57 +1,57 @@
-<h1 align="center">Abdullahi Abbas Ribadu</h1>
-<h3 align="center">Frontend Web Developer • React • TypeScript • Firebase</h3>
+**Robinson Honour** - Nigerian software developer and tech creator with over 7.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
 
-<p align="center">
-Building real-world products and developer tools in Nigeria 🇳🇬
-</p>
 
----
+```typescript
+interface Developer {
+    name: string;
+    age: number;
+    experience: string;
+    focus: string[];
+    location: string;
+}
 
-<h2>🧠 Most Used Languages</h2>
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahi03-dev&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-  />
-</p>
+const me: Developer = {
+    name: "Robinson Honour",
+    age: 19,
+    experience: "7.5+ years",
+    focus: ["Web Development", "Mobile Apps", "Robotics", "DevOps", "Cloud Infrastructure"],
+    location: "Nigeria",
+};
+```
+ 
 
----
+ 
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abdullahi03-dev&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-  />
-</p>
+## Featured Projects
 
----
-
-<h2>🛠 Tech Stack</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</p>
+### Pxxl App - Cloud Deployment Platform
+Enterprise-grade cloud deployment platform enabling instant deployment of websites, APIs, and databases with zero configuration.
+ 
+[View Project →](https://robinsonhonour.me/projects/pxxl)
 
 ---
 
-<h2>🌟 Featured Projects</h2>
+### EmojiDB - Lightweight Database Engine
+High-performance, encrypted database engine with Node.js SDK for modern applications.
+ 
 
-<ul>
-  <li><strong>Live Multiplayer Quiz App</strong> – React & Firebase</li>
-  <li><strong>Weather App (PWA)</strong> – React + TypeScript</li>
-  <li><strong>Flashcard Study App</strong> – Built for a ₦30k challenge</li>
-</ul>
+[View Project →](https://github.com/ikwerre-dev/EmojiDB)
 
 ---
 
-<h2>📫 Contact</h2>
+### Olamide's Tour Website
+Official tour website for Nigerian musician Olamide (Baddo), handling ticket sales and event management.
+ 
+[View Project →](https://robinsonhonour.me/projects/olamide)
 
-<p>
-  Email: <strong>abdullahiabbasribadu@gmail.com</strong><br/>
-  Twitter: <a href="https://twitter.com/abdullahi_ribadu">@abdullahi_ribadu</a>
-</p>
+  
+ 
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://robinsonhonour.me)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://x.com/@honour_can_code)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ikwerre-dev)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://robinsonhonour.me/blog)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://robinsonhonour.me/resume.pdf)
+
+  
